@@ -27,7 +27,7 @@ int main() {
     }
 
     return 0;
-    // a*b=c
+    
 }
 
 void e() {
@@ -77,3 +77,4 @@ void f() {
         error = 1;
     }
 }
+// a*b=c
