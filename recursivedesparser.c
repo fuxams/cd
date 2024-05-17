@@ -27,6 +27,7 @@ int main() {
     }
 
     return 0;
+    // a*b=c
 }
 
 void e() {
